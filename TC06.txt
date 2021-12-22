@@ -1,1 +1,1 @@
-selenium project
+selenium project and java project
